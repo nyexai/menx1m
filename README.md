@@ -12,4 +12,4 @@ You need the discord client open and have the discord overlay.
 
 If you dont have discord install it.
 
-Contact me on discord (nyexoi) for any additional hel
+Contact me on discord (nyexoi) for any additional help
