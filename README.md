@@ -13,3 +13,7 @@ You need the discord client open and have the discord overlay.
 If you dont have discord install it.
 
 Contact me on discord (nyexoi) for any additional help
+
+Note: You need winrar
+
+Made by nyexoi
