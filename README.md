@@ -1,16 +1,15 @@
-# menx1m
-menx1m is a geforce now fortnite cheat
-you run it by running it (kind of obviouis)
-if you need help contact me on discord (nyexoi)
+# Python Fortnite cheat.
 
+To start run the compiled python script.
 
+There is 2 options
 
+Option 1 loads .ddl cheats to game
 
-if you where wondering the cheat works by finding your cloud server then implementing the cheats into them.
+Option 2 starts the external fortnite cheat.
 
+You need the discord client open and have the discord overlay.
 
+If you dont have discord install it.
 
-
-
-
-FULLY UD
+Contact me on discord (nyexoi) for any additional hel
